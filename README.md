@@ -6,5 +6,5 @@
 
 <br>
 <p align="center"> <img src="https://github.com/mortisfication/mortisfication/blob/77c8d6fc3be349d8dcae3314e1687af28cdc0a28/aura%202.png" alt="mcqueen" width="850"> </p>
-<p align="center"> ic: @kkelsey_spring on twitter/x </p>
+<p align="center"> all art by @kkelsey_spring on <a ref="https://x.com/kkelsey__spring">twitter/x</a> <br> all graphics made by me</p>
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
