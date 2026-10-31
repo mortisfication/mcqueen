@@ -10,4 +10,11 @@
   art creds: @kkelsey_spring on <a href="https://x.com/kkelsey__spring">twitter/x</a> * <a href="https://www.instagram.com/kkelsey__spring/">instagram</a>
 </p>
 <p align="center"> all graphics made by me</p>
+
+<p align="left"> <a href="https://mortisfication.atabook.org"> <img src="https://github.com/mortisfication/mortisfication/blob/7f06855035797d310cdc1f166043681ca119c6a2/atabook%20png.png" alt="mcqueen" width="500"> </p>
+
+<p align="right"> <a href="https://pronouns.cc/@mortisfication"> <img src="https://github.com/mortisfication/mortisfication/blob/7f06855035797d310cdc1f166043681ca119c6a2/pronouns.png" alt="mcqueen" width="500"> </p>
+
+<p align="left"> <a href="https://listography.com/mortisfication"> <img src="https://github.com/mortisfication/mortisfication/blob/7f06855035797d310cdc1f166043681ca119c6a2/listography.png" alt="mcqueen" width="500"> </p>
+
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
